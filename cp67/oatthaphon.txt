@@ -3,4 +3,5 @@ oatthaphon.txt
 1. My name is oatthaphon
 2. My lastname is ampharat.
 3. My email is kayuiri1@gmail.com
-My phone number is 67676790.
+4. My phone number is 67676790.
+5. OK. very good.

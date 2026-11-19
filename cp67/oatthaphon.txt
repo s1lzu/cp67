@@ -2,3 +2,4 @@ oatthaphon.txt
 สวัสดี
 1. My name is oatthaphon
 2. My lastname is ampharat.
+3. My email is kayuiri1@gmail.com

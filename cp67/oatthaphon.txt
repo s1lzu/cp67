@@ -1,3 +1,4 @@
 oatthaphon.txt
 สวัสดี
 1. My name is oatthaphon
+2. My lastname is ampharat.
